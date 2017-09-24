@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements ForecastAdapterOn
 
     // Override ForecastAdapterOnClickHandler's onClick method
 
-    
+
     @Override
     public void onClickListener(String weatherForDay) {
         Context context = this;
